@@ -1,8 +1,0 @@
-<<<<<<< HEAD
-Your Name
-Please write the description of yourself here, and it will be automatically filled into the report.
-=======
-Your Name
-Please write the description of yourself here, and it will be automatically filled into the report.
->>>>>>> upstream/master
-The first line should be your name.

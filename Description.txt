@@ -1,8 +1,0 @@
-<<<<<<< HEAD
-Strategy Name
-Please write the description of your strategy here and it will be automatically filled into your report.
-=======
-Strategy Name
-Please write the description of your strategy here and it will be automatically filled into your report.
->>>>>>> upstream/master
-The first line should be your strategy name.
