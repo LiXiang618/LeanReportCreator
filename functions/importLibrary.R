@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 library(jsonlite)
 library(rjson)
 library(xts)
@@ -9,4 +10,17 @@ library(ggplot2)
 library(lubridate)
 library(scales)
 library(grid)
+=======
+library(jsonlite)
+library(rjson)
+library(xts)
+library(dygraphs)
+library(PerformanceAnalytics)
+library(quantmod)
+library(lattice)
+library(ggplot2)
+library(lubridate)
+library(scales)
+library(grid)
+>>>>>>> upstream/master
 library(extrafont)
