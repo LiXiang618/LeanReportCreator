@@ -1,4 +1,5 @@
 import base64
+import os
 import os.path
 import re
 import json
@@ -443,3 +444,10 @@ def GenerateHTMLReport(outdir):
     
     f.write(html)
     f.close()
+    
+    dir_name = outdir
+    test = os.listdir(dir_name)
+    
+    for item in test:
+        if item.endswith(".png") or item.endswith(".json"):
+            os.remove(os.path.join(dir_name, item))
